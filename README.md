@@ -1,4 +1,4 @@
--git init initializes a brand new Git repository and begins tracking an existing directory. It adds a hidden subfolder within the existing directory that houses the internal data structure required for version control.
+-git init initializes a brand new Git repository and begins tracking an existing directory. It adds a hidden subfolder within the existing directory that houses the internal data structure required for version 
 
 git clone creates a local copy of a project that already exists remotely. The clone includes all the project’s files, history, and branches.
 
